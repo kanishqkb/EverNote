@@ -1,6 +1,7 @@
 #Screenshot
 ![Screenshot (39)](https://user-images.githubusercontent.com/84467292/193781194-235caf7a-27c5-4fe9-b400-d547db95aba4.png)
-![Uploading Screenshot (38).png…]()
+
+
 
 # Gett!
 
