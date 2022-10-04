@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+#Screenshot
+![Screenshot (39)](https://user-images.githubusercontent.com/84467292/193781194-235caf7a-27c5-4fe9-b400-d547db95aba4.png)
+![Uploading Screenshot (38).png…]()
+
+# Gett!
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -71,5 +75,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 #� �I�N�o�t�e�b�o�o�k�
 �
 �
-#Screenshot
-![Screenshot (39)](https://user-images.githubusercontent.com/84467292/193780847-f66398ea-447f-4b9a-b463-24ae084c29ea.png)
+
